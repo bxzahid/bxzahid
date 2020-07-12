@@ -13,8 +13,9 @@ Co-Founder of [TechDiary](https://www.techdiary.dev)
 
 ```json
 {
-   "languages":["JavaScript", "TypeScript", "C", "Dart"],
+   "languages":["JavaScript", "TypeScript", "C"],
    "frontend":["ReactJS", "NextJS", "GatsbyJS"],
-   "backend":["NodeJS", "ExpressJS", "NestJS", "GraphQL"]
+   "backend":["NodeJS", "ExpressJS", "NestJS", "GraphQL"],
+   "databases": ["mongoDB"],
 }
 ```
