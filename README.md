@@ -9,7 +9,7 @@
 
 :wave: A passionate Full Stack JavaScript Developer ❤. I take a special interest in backend API design and development. I 💕 to ⚒ with GraphQL, NestJS & ReactJS. I'm flexible, proactive, and curious.
 
-### ~/bxzahid/.stackrc
+#### ~/bxzahid/.stackrc
 
 ```json
 {
@@ -21,7 +21,7 @@
 }     
 ```
 
-### ~/bxzahid/.openSource
+#### ~/bxzahid/.openSource
 
 ```json
 {
