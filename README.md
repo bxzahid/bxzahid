@@ -1,3 +1,5 @@
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=bxzahid&show_icons=true"/>](https://github.com/bxzahid)
+
 ## Hi 👋 I'm Zahid
 
 > Co-Founder of [TechDiary](https://www.techdiary.dev)
@@ -7,7 +9,7 @@
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dbxzahid&suffix=%20Followers)](https://www.twitter.com/bxzahid)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/bxzahid/)
 
-:wave: A passionate Full Stack JavaScript Developer ❤. I take a special interest in backend API design and development. I 💕 to ⚒ with GraphQL, NestJS & ReactJS. I'm flexible, proactive, and curious.
+:wave: A passionate Full Stack JavaScript Developer ❤. I take a special interest in backend API design and development. I 💕 to work with ![React Logo](https://img.icons8.com/office/16/000000/react.png) ReactJS, <img src="https://nestjs.com/img/logo-small.svg" width="18" alt="Nest Logo" /> NestJS & ![GraphQL Logo](https://img.icons8.com/color/18/000000/graphql.png) GraphQL. I'm flexible, proactive, and curious.
 
 #### ~/bxzahid/.stackrc
 
@@ -16,7 +18,7 @@
    "languages" : ["JavaScript", "TypeScript", "C"],
    "frontend"  : ["ReactJS", "NextJS", "GatsbyJS"],
    "backend"   : ["NodeJS", "ExpressJS", "NestJS", "GraphQL"],
-   "dbms"      : ["MongoDB", "Array 😂"],
+   "dbms"      : ["MongoDB"],
    "dbms-orm"  : ["Mongoose", "Typegoose"]
 }     
 ```
