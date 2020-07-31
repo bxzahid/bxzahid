@@ -19,7 +19,8 @@
    "frontend"  : ["ReactJS", "NextJS", "GatsbyJS"],
    "backend"   : ["NodeJS", "ExpressJS", "NestJS", "GraphQL"],
    "dbms"      : ["MongoDB"],
-   "dbms-orm"  : ["Mongoose", "Typegoose"]
+   "dbms-orm"  : ["Mongoose", "Typegoose"],
+   "ui"        : ["Material UI"]
 }     
 ```
 
