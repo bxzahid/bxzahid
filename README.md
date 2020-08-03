@@ -20,7 +20,7 @@
    "backend"   : ["NodeJS", "ExpressJS", "NestJS", "GraphQL"],
    "dbms"      : ["MongoDB"],
    "dbms-orm"  : ["Mongoose", "Typegoose"],
-   "ui"        : ["Material UI"]
+   "ui"        : ["Material UI", "Styled-components"]
 }     
 ```
 
