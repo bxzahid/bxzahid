@@ -15,7 +15,7 @@
 
 ```json
 {
-   "languages" : ["JavaScript", "TypeScript"],
+   "languages" : ["JavaScript", "TypeScript", "C"],
    "frontend"  : ["ReactJS", "NextJS", "GatsbyJS"],
    "backend"   : ["NodeJS", "ExpressJS", "NestJS", "GraphQL"],
    "dbms"      : ["MongoDB"],
