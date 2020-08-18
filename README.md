@@ -1,5 +1,3 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=bxzahid&show_icons=true"/>](https://github.com/bxzahid)
-
 ## Hi 👋 I'm Zahid
 
 > Co-Founder of [TechDiary](https://www.techdiary.dev)
