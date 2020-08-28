@@ -14,6 +14,7 @@
 ```json
 {
    "languages" : ["JavaScript", "TypeScript", "C"],
+   "mobile-app" : ["React Native"],
    "frontend"  : ["ReactJS", "NextJS", "GatsbyJS"],
    "backend"   : ["NodeJS", "ExpressJS", "NestJS", "GraphQL"],
    "dbms"      : ["MongoDB"],
