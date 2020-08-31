@@ -13,7 +13,7 @@
 
 ```json
 {
-   "languages" : ["JavaScript", "TypeScript", "C"],
+   "languages" : ["JavaScript", "TypeScript"],
    "mobile-app" : ["React Native"],
    "frontend"  : ["ReactJS", "NextJS", "GatsbyJS"],
    "backend"   : ["NodeJS", "ExpressJS", "NestJS", "GraphQL"],
