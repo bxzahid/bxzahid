@@ -7,19 +7,19 @@
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dbxzahid&suffix=%20Followers)](https://www.twitter.com/bxzahid)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/bxzahid/)
 
-:wave: A passionate Full Stack JavaScript Developer ❤. I take a special interest in backend API design and development. I 💕 to work with ![React Logo](https://img.icons8.com/office/16/000000/react.png) ReactJS, <img src="https://nestjs.com/img/logo-small.svg" width="18" alt="Nest Logo" /> NestJS & ![GraphQL Logo](https://img.icons8.com/color/18/000000/graphql.png) GraphQL. I'm flexible, proactive, and curious.
+Hi! I am Zahid Hasan. A passionate MERN Stack Developer. I studied B.Sc in CSE at Daffodil International University. I have matured knowledge in programming languages like C, JavaScript, TypeScript. I take a special interest in Back-end API design and development. Typically, I love to work with React.js, Node.js &  GraphQL. I love to explore new technologies and tools. I'm flexible, proactive and curious.
 
 #### ~/bxzahid/.stackrc
 
 ```json
 {
-   "languages" : ["JavaScript", "TypeScript"],
+   "languages" : ["C", "JavaScript", "TypeScript"],
    "mobile-app" : ["React Native"],
-   "frontend"  : ["ReactJS", "NextJS", "GatsbyJS"],
-   "backend"   : ["NodeJS", "ExpressJS", "NestJS", "GraphQL"],
+   "frontend"  : ["HTML5", "CSS3", "Bootstrap", "Tailwind CSS", "Styled-components", "React.js", "Redux.js", "Easy Peasy", "Next.js", "Gatsby.js", "Apollo GraphQL"],
+   "backend"   : ["Node.js", "Express.js", "NestJS", "GraphQL"],
    "dbms"      : ["MongoDB"],
    "dbms-orm"  : ["Mongoose", "Typegoose"],
-   "ui"        : ["Material UI", "Styled-components", "Tailwind CSS"]
+   "ui"        : ["Material UI", "Chakra UI", "Ant Design"]
 }     
 ```
 
@@ -27,6 +27,10 @@
 
 ```json
 {
-   "quick-crud" : "https://github.com/graph-land/quick-crud"
+   "Guardian Publications" : "https://guardianpubs.com",
+   "Contact List Project" : "https://github.com/bxzahid/js-contact-list-project",
+   "CLI Todo Project" : "https://github.com/bxzahid/js-cli-todo-project",
+   "QuickCrud.js" : "https://npmjs.com/package/quick-crud
+"
 }
 ```
