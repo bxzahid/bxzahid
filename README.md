@@ -27,10 +27,10 @@ Hi! I am Zahid Hasan. A passionate MERN Stack Developer. I studied B.Sc in CSE a
 
 ```json
 {
+   "Tech Diary" : "https://techdiary.dev",
    "Guardian Publications" : "https://guardianpubs.com",
    "Contact List Project" : "https://github.com/bxzahid/js-contact-list-project",
    "CLI Todo Project" : "https://github.com/bxzahid/js-cli-todo-project",
-   "QuickCrud.js" : "https://npmjs.com/package/quick-crud
-"
+   "QuickCrud.js" : "https://npmjs.com/package/quick-crud"
 }
 ```
