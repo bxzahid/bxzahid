@@ -1,6 +1,7 @@
 ## Hi 👋 I'm Zahid
 
 > Full Stack Developer at [Stack Learner](https://stacklearner.com)
+
 > Co-Founder and Full Stack Developer at [TechDiary](https://techdiary.dev)
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bxzahid/)
