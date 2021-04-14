@@ -1,6 +1,7 @@
 ## Hi 👋 I'm Zahid
 
-> Co-Founder of [TechDiary](https://www.techdiary.dev)
+> Full Stack Developer at [Stack Learner](https://stacklearner.com)
+> Co-Founder and Full Stack Developer at [TechDiary](https://techdiary.dev)
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bxzahid/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/bxzahid/)
@@ -9,7 +10,7 @@
 
 Hi! I am Zahid Hasan. A passionate MERN Stack Developer. I studied B.Sc in CSE at Daffodil International University. I have matured knowledge in programming languages like C, JavaScript, TypeScript. I take a special interest in Back-end API design and development. Typically, I love to work with React.js, Node.js &  GraphQL. I love to explore new technologies and tools. I'm flexible, proactive and curious.
 
-#### ~/bxzahid/.stackrc
+#### ~/bxzahid/.skills
 
 ```json
 {
@@ -23,7 +24,7 @@ Hi! I am Zahid Hasan. A passionate MERN Stack Developer. I studied B.Sc in CSE a
 }     
 ```
 
-#### ~/bxzahid/.openSource
+#### ~/bxzahid/.projects
 
 ```json
 {
