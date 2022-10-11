@@ -17,11 +17,11 @@ Hi! I'm Zahid, a highly motivated, passionate MERN Stack Developer with 6+ years
 {
    "languages" : ["C", "JavaScript", "TypeScript"],
    "mobile-app" : ["React Native"],
-   "frontend"  : ["HTML5", "CSS3", "Bootstrap", "Tailwind CSS", "Styled-components", "React.js", "Redux.js", "Easy Peasy", "Next.js", "Gatsby.js", "Apollo GraphQL"],
+   "frontend"  : ["HTML5", "CSS3", "Tailwind CSS", "React.js", "Redux.js", "Easy Peasy", "Next.js", "Gatsby.js", "Apollo GraphQL"],
    "backend"   : ["Node.js", "Express.js", "NestJS", "GraphQL"],
    "dbms"      : ["MongoDB"],
    "dbms-orm"  : ["Mongoose", "Typegoose"],
-   "ui"        : ["Material UI", "Chakra UI", "Ant Design"]
+   "ui"        : ["Material UI"]
 }     
 ```
 
@@ -31,7 +31,6 @@ Hi! I'm Zahid, a highly motivated, passionate MERN Stack Developer with 6+ years
 {
    "Tech Diary" : "https://techdiary.dev",
    "React Redux NestJS Authentication App": "https://authentication-app.netlify.app",
-   "Guardian Publications" : "https://guardianpubs.com",
    "Contact List Project" : "https://github.com/bxzahid/js-contact-list-project",
    "CLI Todo Project" : "https://github.com/bxzahid/js-cli-todo-project",
    "QuickCrud.js" : "https://npmjs.com/package/quick-crud"
