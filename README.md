@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Zahid
 
-> Software Developer at [Arogga](https://www.arogga.com)
+> Senior Software Engineer at [Arogga](https://www.arogga.com)
 
 > Co-Founder and Full Stack Developer at [TechDiary](https://techdiary.dev)
 
@@ -9,7 +9,7 @@
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dbxzahid&suffix=%20Followers)](https://www.twitter.com/bxzahid)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/bxzahid/)
 
-Hi! I'm Zahid, a highly motivated, passionate MERN Stack Developer with 6+ years of real-world experience. I studied B.Sc in CSE at Daffodil International University. Have matured knowledge in programming languages like C, JavaScript, TypeScript. I’ve design & coding skills and an ability to convert client requirements into exciting online applications. I love to explore new technologies and tools. I'm flexible, proactive, and curious.
+Hi! I am Zahid Hasan. A passionate MERN Stack Developer. I studied B.Sc in CSE at Daffodil International University. I have matured knowledge in programming languages like C, JavaScript, TypeScript. I take a special interest in Back-end API design and development. Typically, I love to work with React.js, Node.js & GraphQL. I love to explore new technologies and tools. I'm flexible, proactive, and curious.
 
 #### ~/bxzahid/.skills
 
