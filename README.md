@@ -1,38 +1,68 @@
-## Hi 👋 I'm Zahid
+## 👨‍💻 Zahid Hasan
 
-> Senior Software Engineer at [Arogga](https://www.arogga.com)
+> 🚀 Senior Software Engineer at [Arogga](https://www.arogga.com)
+> 🔧 Co-founder & Full Stack Developer at [TechDiary.dev](https://techdiary.dev)
 
-> Co-founder and Full Stack Developer at [TechDiary](https://techdiary.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/bxzahid)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-black?style=flat\&logo=twitter)](https://x.com/bxzahid)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat\&logo=facebook)](https://facebook.com/bxzahid)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat\&logo=instagram)](https://instagram.com/bxzahid)
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bxzahid/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/bxzahid/)
-[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dbxzahid&suffix=%20Followers)](https://www.x.com/bxzahid)
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/bxzahid/)
+---
 
-Hi! I am Zahid Hasan. A passionate MERN Stack Developer. I studied for a B.Sc in CSE at Daffodil International University. I have matured knowledge of programming languages like C, JavaScript and TypeScript. I take a special interest in Back-end API design and development. Typically, I love to work with React.js, Node.js & GraphQL. I love to explore new technologies and tools. I'm flexible, proactive, and curious.
+### 🧠 About Me
 
-#### ~/bxzahid/.skills
+Hi there! I'm **Zahid Hasan**, a results-driven full-stack engineer who loves to build elegant digital experiences and scalable web platforms. I graduated with a **B.Sc in CSE** from **Daffodil International University**, and since then, I’ve been actively contributing to impactful projects in the healthcare, education, and developer tooling space.
 
-```json
-{
-   "languages" : ["C", "JavaScript", "TypeScript"],
-   "mobile-app" : ["React Native"],
-   "frontend"  : ["HTML5", "CSS3", "Tailwind CSS", "React.js", "Redux.js", "Easy Peasy", "Next.js", "Gatsby.js", "Apollo GraphQL"],
-   "backend"   : ["Node.js", "Express.js", "NestJS", "GraphQL"],
-   "dbms"      : ["MongoDB"],
-   "dbms-orm"  : ["Mongoose", "Typegoose"],
-   "ui"        : ["Material UI"]
-}     
-```
+* 🔭 Currently working with the **MERN stack**, TypeScript, and GraphQL
+* 🧩 Experienced with building scalable RESTful APIs and modern frontend systems
+* ✨ Interested in developer productivity tools and clean architecture
+* 📈 Passionate about open-source, technical leadership, and mentoring junior devs
 
-#### ~/bxzahid/.projects
+> "Strive for clean, performant code. The user experience starts at the first line you write."
+
+---
+
+### 💼 Tech Toolbox
 
 ```json
 {
-   "Tech Diary": "https://techdiary.dev",
-   "React Redux NestJS Authentication App": "https://authentication-app.netlify.app",
-   "Contact List Project": "https://github.com/bxzahid/js-contact-list-project",
-   "CLI Todo Project": "https://github.com/bxzahid/js-cli-todo-project",
-   "QuickCrud.js": "https://npmjs.com/package/quick-crud"
+  "Languages": ["C", "JavaScript", "TypeScript"],
+  "Frontend": ["HTML5", "CSS3", "Tailwind CSS", "React.js", "Redux", "Easy Peasy", "Next.js", "Gatsby.js", "Apollo Client"],
+  "Backend": ["Node.js", "Express.js", "NestJS", "GraphQL"],
+  "Database": ["MongoDB"],
+  "ORMs": ["Mongoose", "Typegoose"],
+  "Mobile": ["React Native"],
+  "UI Libraries": ["Material UI"]
 }
 ```
+
+---
+
+### 🚧 Open Source & Side Projects
+
+| Project                                                            | Description                                                                 |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| [Tech Diary](https://techdiary.dev)                                | A collaborative blogging platform for developers to write, share, and grow. |
+| [QuickCrud.js](https://npmjs.com/package/quick-crud)               | A minimal NPM utility to speed up backend CRUD development.                 |
+
+---
+
+### 🔍 Currently Exploring
+
+* 🕸 Serverless ecosystems: Cloudflare Workers, Vercel Functions
+* 📡 Type-safe API development with **tRPC**
+* 🧬 Database modeling with **Prisma + PostgreSQL**
+* 🧠 Improving frontend performance and accessibility
+
+---
+
+### 📣 Let's Connect
+
+I'm always open to talking tech, brainstorming ideas, or collaborating on cool side projects. Feel free to connect:
+
+📫 [LinkedIn](https://linkedin.com/in/bxzahid) — fastest way to reach me
+
+---
+
+> 🧭 "Building tools to empower people. One commit at a time."
