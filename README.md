@@ -4,7 +4,7 @@
 > 🔧 Co-founder & Full Stack Developer at [TechDiary.dev](https://techdiary.dev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/bxzahid)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-black?style=flat\&logo=twitter)](https://x.com/bxzahid)
+[![X](https://img.shields.io/badge/Twitter-Follow-black?style=flat\&logo=twitter)](https://x.com/bxzahid)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat\&logo=facebook)](https://facebook.com/bxzahid)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat\&logo=instagram)](https://instagram.com/bxzahid)
 
